@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashikbuksh&show_icons=true&locale=en" alt="rashikbuksh" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rashikbuksh&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rashikbuksh&theme=gruvbox_duo&border_radius=5)](https://git.io/streak-stats)
