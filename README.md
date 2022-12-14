@@ -20,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashikbuksh&show_icons=true&locale=en&layout=compact" alt="rashikbuksh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rashikbuksh&show_icons=true&locale=en" alt="rashikbuksh" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashikbuksh&theme=gruvbox&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rashikbuksh&theme=gruvbox_duo&border_radius=5)](https://git.io/streak-stats)
