@@ -23,3 +23,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashikbuksh&theme=gruvbox&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=rashikbuksh&theme=gruvbox_duo&border_radius=5)](https://git.io/streak-stats)
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/rashikbuksh/langs)](https://githubtrends.io)
